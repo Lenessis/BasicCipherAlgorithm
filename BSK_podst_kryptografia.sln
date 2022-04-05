@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSK_podst_kryptografia", "BSK_podst_kryptografia.csproj", "{5822B42F-564B-4DAB-A825-C8A4682F47FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5822B42F-564B-4DAB-A825-C8A4682F47FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5822B42F-564B-4DAB-A825-C8A4682F47FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5822B42F-564B-4DAB-A825-C8A4682F47FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5822B42F-564B-4DAB-A825-C8A4682F47FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB0AF890-5A34-4353-AE3C-C49F4F5E686E}
+	EndGlobalSection
+EndGlobal

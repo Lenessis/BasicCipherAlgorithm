@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BSK_podst_kryptografia/1.0.0": {
+        "runtime": {
+          "BSK_podst_kryptografia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSK_podst_kryptografia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
